@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Mark Huebel  # Be used at blog posts' author.
   first_name: Mark  # Be used at index page about me section.
   last_name: Huebel  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/circle_avatar.png  # upload your avatar at directory and edit it.
+  avatar: https://mahuebel.github.io/portfolio/static/assets/img/landing/circle_avatar.png  # upload your avatar at directory and edit it.
   github_username: mahuebel  # Leave blank if you don't have now
   linkedin_id: mark-huebel # Leave blank if you don't have now
   facebook_username: mark.huebel  # Leave blank if you don't have now
