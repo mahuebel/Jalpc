@@ -1,22 +1,46 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+#- name: Python
+##  i18n: cpython
+#  gh_user: python
+#  repo: cpython
+#  img: /static/assets/img/landing/python.png
+#  desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: CC Screener
+#  i18n: google
+  url: http://stocksraag.herokuapp.com
+  img: /static/assets/img/landing/ccscreener.png
+  desc: A cross-platform app under development to screen and filter covered calls on the Nasdaq and NYSE exchanges. <br/> Node/Mongo/Meteor backend, Meteor/React front end on web. Native Android app under development.
+
+- name: Serv-Now
+#  i18n: google
+  url: https://serv-now.herokuapp.com
+  img: /static/assets/img/landing/servnow.svg
+  desc: A webapp under development to be whitelabeled to service companies. <br/>Node/Mongo backend, Meteor/React front end. <br/>GPS tracking, Employee management and scheduling, Payroll clocking, Appointment and Project management, Reporting, and More.
+
+- name: Pdelta Engineering
+#  i18n: google
+  url: http://www.pdelta.net/
+  img: /static/assets/img/landing/pdelta.webp
+  desc: A webapp deployed to a local server to track projects and allocate employee resources. <br/>Node/Mongo backend, Meteor/Blaze front end.
+
+- name: Easter Now - Android
+#  i18n: google
+  url: http://easternow.com/
+  img: /static/assets/img/landing/easternow.png
+  desc: Android app available on play store, this app schedules notifications to walk you through each notable event during Passion week. <br/> Realm backend
+
+- name: Gather
+#  i18n: google
+  url: https://gather-meteor.herokuapp.com/
+  img: /static/assets/img/landing/gather_logo.svg
+  desc: A webapp/personal project created to better learn implementing React with Meteor. <br /> Node/Mongo backend, Meteor/React front end.
+
+- name: Swaddling Clothes App
+#  i18n: google
+  url: https://gather-meteor.herokuapp.com/
+  img: /static/assets/img/landing/sclogosmall.png
+  desc: A webapp for a charity non-profit - used to track inventory and clients. <br /> Postgresql database, built with Groovy and Grails.

@@ -2582,7 +2582,9 @@ body.landing-page {
   padding-top: 80px;
   padding-bottom: 90px;
   background-color: #3385FF;
-  background-image: url(../img/landing/avatar_all.png);
+  background-image: url(../img/landing/footer_bg.png);
+  background-size: cover;
+  background-position: center;
 }
 
 .landing-page .contact {
