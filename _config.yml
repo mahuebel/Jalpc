@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-git
     - name: fa-github
-  desc: Mark Huebel - Android & Mobile Web Developer <br/> I've been developing applications for over 3 years, and while I enjoy designing great experiences, my true passion lies in learning new ways to solve problems. I can be found working on my (too many) side projects or pestering friends and family members with fun logic puzzles, puns, and dad jokes in my spare time  # Describe yourself.
+  desc: Mark Huebel - Android & Mobile Web Developer <br/> I've been developing applications for over 3 years, and while I enjoy designing great experiences, my true passion lies in learning new ways to solve problems. <br/><br/>I can be found working on my (too many) side projects or pestering friends and family members with fun logic puzzles, puns, and dad jokes in my spare time  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
