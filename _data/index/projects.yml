@@ -13,34 +13,40 @@
 #  i18n: google
   url: http://stocksraag.herokuapp.com
   img: /static/assets/img/landing/ccscreener.png
-  desc: A cross-platform app under development to screen and filter covered calls on the Nasdaq and NYSE exchanges. <br/> Node/Mongo/Meteor backend, Meteor/React front end on web. Native Android app under development.
+  desc: This app was originally written as an Android app as a gift for my father who trades covered calls. The original app was scraping websites for data, but after a few months of looking around, I was able to find the Tradier API and leverage it to supply the data I needed. <br/>The biggest challenge on the Meteor project was understanding the stock market and its terminology enough to calculate potential profits, implied volatilities, and probabilities of each stock reaching or maintaining a value at various price points and call dates. Another server-side challenge was scheduling the app to auto-update the database with new information at regular intervals. <br/>On the Android side, I got experience in retrieving data from my Meteor backend over DDP, as opposed to HTTP. <br/>Meteor, ReactJS, DDP, HTML, Javascript, ES6, Less, Node, npm, MomentJS, Material-UI, MongoDB, Cordova, Android, Java, XML, Gradle, Android Studio, MVP, JDK 8
 
 - name: Serv-Now
 #  i18n: google
   url: https://serv-now.herokuapp.com
   img: /static/assets/img/landing/servnow.svg
-  desc: A webapp under development to be whitelabeled to service companies. <br/>Node/Mongo backend, Meteor/React front end. <br/>GPS tracking, Employee management and scheduling, Payroll clocking, Appointment and Project management, Reporting, and More.
+  desc: Serv-Now is a Meteor rewrite of - and expansion on - an Android app I had created previously. This app's challenges include the need for it to be easily configurable for each company that uses it, GPS fleet tracking, payroll management, and equipment tracking.  <br/>Meteor, ReactJS, DDP, HTML, Javascript, ES6, Less, Node, npm, MomentJS, Material-UI, MongoDB, Cordova
 
 - name: Pdelta Engineering
 #  i18n: google
   url: http://www.pdelta.net/
   img: /static/assets/img/landing/pdelta.webp
-  desc: A webapp deployed to a local server to track projects and allocate employee resources. <br/>Node/Mongo backend, Meteor/Blaze front end.
+  desc: P-delta was looking for a system to manage and track their projects, but didn't have a workflow conducive to systemization. I met with ownership multiple times during the process, going over ideas for a new workflow system that would eventually become the app. When we were finished, the app was able to track in what stage a project was while also dramatically cutting down the amount of data input with which they were originally consumed.  <br/>Meteor, DDP, HTML, Javascript, jQuery, SCSS, Node, npm, MomentJS, Bootstrap, Blaze, Spacebars, MongoDB
 
 - name: Easter Now - Android
 #  i18n: google
   url: http://easternow.com/
   img: /static/assets/img/landing/easternow.png
-  desc: Android app available on play store, this app schedules notifications to walk you through each notable event during Passion week. <br/> Realm backend
+  desc: Available on the Play Store, EasterNow was an opportunity for me to code in tandem with a developer working on an iOS app at the same time. It was a great look into the challenge and complexity that arises when working in multiple teams on the same base product. I was also able to tackle challenges such as managing Realm objects across multiple threads and user testing on a wide variety of phones and Android versions. <br/>Android, Java, XML, Android Studio, Gradle, Realm, MixPanel, Crashlytics, Push Notifications
 
 - name: Gather
 #  i18n: google
   url: https://gather-meteor.herokuapp.com/
   img: /static/assets/img/landing/gather_logo.svg
-  desc: A webapp/personal project created to better learn implementing React with Meteor. <br /> Node/Mongo backend, Meteor/React front end.
+  desc: As Meteor and its community matured, it became clear that React would become the community-preferred front end library. To learn React, I decided to recreate one of my first few Android apps in Meteor. <br/>Meteor, DDP, HTML, Javascript, SCSS, Less, Node, npm, MomentJS, ReactJS, Material-UI, MongoDB, Cordova, Push Notifications
+
+- name: Wrapapp
+#  i18n: google
+  url: https://wrapapp.herokuapp.com/
+  img: /static/assets/img/landing/w_logo.png
+  desc: My previous company, WrapTX, needed a better way to track projects and manage client  interactions - wholesale and retail. To that end, I started development on a Meteor application. The app handles CRM, Project Management, Estimates and Invoicing, and Calendar scheduling by task category. To handle staff/broker/client complexity, I sought out and implemented a Meteor-specific account roles library to make sure data displayed accurately for each role. <br/>Meteor, DDP, HTML, Javascript, jQuery, SCSS, Node, npm, MomentJS, FullCalendar, Xero API, Materialize, Blaze, Spacebars, MongoDB, Cordova, Push Notifications
 
 - name: Swaddling Clothes App
 #  i18n: google
-  url: https://gather-meteor.herokuapp.com/
+  url: http://http://swaddlingclothes.org/
   img: /static/assets/img/landing/sclogosmall.png
-  desc: A webapp for a charity non-profit - used to track inventory and clients. <br /> Postgresql database, built with Groovy and Grails.
+  desc: Swaddling Clothes, a charity program run in various congregations of the Lutheran Church-Missouri Synod to help their neighbors with the gifts of clothing, food, and friendship, expressed a need for an internal database to track and centrally report inventory and clientele. I worked on a team of two to develop a webapp to meet - and exceed - their requirements. I was able to learn about deployment configurations for Java webapps, particularly for Heroku, during this process. I was also exposed to the challenge of configuring Grails to use PostgreSQL to meet Heroku standards. <br/>Grails, Java, Groovy, HTML, Javascript, jQuery, CSS, GORM, Hibernate, Heroku, PostgreSQL, Bootstrap
