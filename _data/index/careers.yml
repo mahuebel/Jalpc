@@ -1,5 +1,146 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: CC Screener
+#    i18n: company_a
+  desc:
+    detail: Meteor/React and Android project
+#    i18n: company_a_desc
+  date:
+    detail: Jul. 2017
+#    i18n: company_a_date
+  job:
+    detail: Meteor/React and Android Developer
+#    i18n: company_a_job
+  icon: fa-asterisk
+
+- name:
+    detail: Serv-Now
+#    i18n: company_a
+  desc:
+    detail: Meteor/React project
+#    i18n: company_a_desc
+  date:
+    detail: May. 2017
+#    i18n: company_a_date
+  job:
+    detail: Meteor/React Developer
+#    i18n: company_a_job
+  icon: fa-asterisk
+
+- name:
+    detail: P-delta Engineering
+#    i18n: company_a
+  desc:
+    detail: Meteor project
+#    i18n: company_a_desc
+  date:
+    detail: Apr. 2017 - May. 2017
+#    i18n: company_a_date
+  job:
+    detail: Android Developer
+#    i18n: company_a_job
+  icon: fa-usd
+
+- name:
+    detail: EasterNow
+#    i18n: company_a
+  desc:
+    detail: First paid Android project
+#    i18n: company_a_desc
+  date:
+    detail: Jan. 2017 - Mar. 2017
+#    i18n: company_a_date
+  job:
+    detail: Android Developer
+#    i18n: company_a_job
+  icon: fa-usd
+
+- name:
+    detail: Gather
+#    i18n: company_a
+  desc:
+    detail: Started developing React apps (with Meteor)
+#    i18n: company_a_desc
+  date:
+    detail: Oct. 2016
+#    i18n: company_a_date
+  job:
+    detail: Meteor/React Developer
+#    i18n: company_a_job
+  icon: fa-asterisk
+
+- name:
+    detail: Wrapapp
+#    i18n: company_a
+  desc:
+    detail: First paid Meteor project
+#    i18n: company_a_desc
+  date:
+    detail: Apr. 2016 - Nov. 2016
+#    i18n: company_a_date
+  job:
+    detail: Meteor Developer
+#    i18n: company_a_job
+  icon: fa-usd
+  
+- name:
+    detail: Started developing Meteor applications
+#    i18n: company_a
+  desc:
+    detail: I had some familiarity with Javascript and jQuery from previous projects, but working with Meteor allowed me the opportunity to really dive in to the finer points of them. I was also able to understand MongoDB on a deeper level by designing collections, find queries, and aggregates. <br/>Meteor, DDP, HTML, Javascript, jQuery, CSS, SCSS, Less,  Node, npm, Blaze, Spacebars, MongoDB, Cordova
+#    i18n: company_a_desc
+  date:
+    detail: Jan. 2016
+#    i18n: company_a_date
+  job:
+    detail: Meteor Developer
+#    i18n: company_a_job
+  icon: fa-asterisk
+
+- name:
+    detail: Swaddling Clothes
+#    i18n: company_a
+  desc:
+    detail: First paid Grails project
+#    i18n: company_a_desc
+  date:
+    detail: Nov. 2015 - Mar 2016
+#    i18n: company_a_date
+  job:
+    detail: Grails Developer
+#    i18n: company_a_job
+  icon: fa-usd
+
+- name:
+    detail: Started developing Grails applications
+#    i18n: company_a
+  desc:
+    detail: Using my familiarity with Java, I was able to transition into the Grails framework. <br/>Grails, Java, Groovy, HTML, Javascript, CSS, GORM, Hibernate, Gradle, MVC
+#    i18n: company_a_desc
+  date:
+    detail: Sep. 2015
+#    i18n: company_a_date
+  job:
+    detail: Grails Developer
+#    i18n: company_a_job
+  icon: fa-asterisk
+
+- name:
+    detail: Started developing Android applications
+#    i18n: company_a
+  desc:
+    detail: After completing the TeamTreehouse Android track, I started coding product-style apps using services like Parse and Firebase for the backend. <br/>Android, Java, XML, Android Studio, Gradle, Parse, Firebase, Google Maps, Google Places, Facebook SDK, Twitter SDK, Basecamp API, Push Notifications
+#    i18n: company_a_desc
+  date:
+    detail: Nov. 2014
+#    i18n: company_a_date
+  job:
+    detail: Android Developer
+#    i18n: company_a_job
+  icon: fa-asterisk
+
 - name:
     detail: Mobile Developer
 #    i18n: company_a

@@ -1,13 +1,13 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Mahuebel
+title: Mark Huebel
 description: Mark's portfolio blog,use Jekyll and github pages.
 keywords: Mark,Huebel,mahuebel,blog,Jekyll,github,gh-pages
 baseurl: /portfolio # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://mahubeel.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /portfolio/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-git
     - name: fa-github
-  desc: Mark Huebel - Android & Mobile Web Developer <br/> I've been developing applications for over 3 years, and while I enjoy designing great experiences, my true passion lies in learning new ways to solve problems. I can be found working on my (too many) side projects or pestering friends and family members with fun logic puzzles, puns, and dad jokes in my spare time  # Describe yourself.
+  desc: Android, iOS, and Web Developer <br/><br/> I've been developing applications for 3 years, and while I enjoy designing great experiences, my true passion lies in learning new ways to solve problems. <br/><br/>I can be found working on my (too many) side projects or pestering friends and family members with fun logic puzzles, puns, and dad jokes in my spare time  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
