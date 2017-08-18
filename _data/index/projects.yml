@@ -41,6 +41,6 @@
 
 - name: Swaddling Clothes App
 #  i18n: google
-  url: https://gather-meteor.herokuapp.com/
+  url: ""
   img: /static/assets/img/landing/sclogosmall.png
   desc: A webapp for a charity non-profit - used to track inventory and clients. <br /> Postgresql database, built with Groovy and Grails.
