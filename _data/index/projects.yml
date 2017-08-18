@@ -47,6 +47,6 @@
 
 - name: Swaddling Clothes App
 #  i18n: google
-  url: http://http://swaddlingclothes.org/
+  url: http://swaddlingclothes.org/
   img: /static/assets/img/landing/sclogosmall.png
   desc: <div class="textplanation">Swaddling Clothes, a charity program run in various congregations of the Lutheran Church-Missouri Synod to help their neighbors with the gifts of clothing, food, and friendship, expressed a need for an internal database to track and centrally report inventory and clientele. I worked on a team of two to develop a webapp to meet - and exceed - their requirements. I was able to learn about deployment configurations for Java webapps, particularly for Heroku, during this process. I was also exposed to the challenge of configuring Grails to use PostgreSQL to meet Heroku standards. <br/><br/><b>Grails, Java, Groovy, HTML, Javascript, jQuery, CSS, GORM, Hibernate, Heroku, PostgreSQL, Bootstrap</b></div>
