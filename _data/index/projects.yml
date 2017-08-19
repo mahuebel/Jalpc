@@ -35,13 +35,13 @@
 
 - name: Serv-Now
 #  i18n: google
-  url: https://serv-now.herokuapp.com
+  url: https://mahuebel.github.io/servnow/
   img: /static/assets/img/landing/servnow.svg
   desc: <div class="textplanation">Serv-Now is a Meteor rewrite of - and expansion on - an Android app I had created previously. This app's challenges include the need for it to be easily configurable for each company that uses it, GPS fleet tracking, payroll management, and equipment tracking.  <br/><br/><b>Meteor, ReactJS, DDP, HTML, Javascript, ES6, Less, Node, npm, MomentJS, Material-UI, MongoDB, Cordova</b></div>
 
 - name: Gather
 #  i18n: google
-  url: https://gather-meteor.herokuapp.com/
+  url: https://github.com/mahuebel/gather-react
   img: /static/assets/img/landing/gather_logo.svg
   desc: <div class="textplanation">As Meteor and its community matured, it became clear that React would become the community-preferred front end library. To learn React, I decided to recreate one of my first few Android apps in Meteor. <br/><br/><b>Meteor, DDP, HTML, Javascript, SCSS, Less, Node, npm, MomentJS, ReactJS, Material-UI, MongoDB, Cordova, Push Notifications</b></div>
 
